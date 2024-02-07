@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://www.youtube.com/watch?v=MHsI8hJmggI&t=876s)
+  - [Active Directory Home Lab with Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI&t=876s)
   - [So you want to be a SOC Analyst? Lab with Eric Capuano](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro)
   - 
 <h2> Certifications</h2>
