@@ -18,10 +18,11 @@
 
 
 <h2> Current Progress</h2>
-- [🔭 I’m currently working on ...]
-- [CompTIA Security+ Certification](https://www.comptia.org/certifications/security)
-- [🌱 I’m currently learning ...]
-- [SOC CORE Skills with John Strand](https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/)
+
+  - [🔭 I’m currently working on ...]
+  - [CompTIA Security+ Certification](https://www.comptia.org/certifications/security)
+  - [🌱 I’m currently learning ...]
+  - [SOC CORE Skills with John Strand](https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/)
 
 <!--
 **TonyRamos1982/TonyRamos1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
