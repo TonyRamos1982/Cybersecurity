@@ -1,4 +1,4 @@
-- <h1>Hi, I'm Tony! <br/><a href="https://github.com/TonyRamos1982"></a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a></h1>
+- <h1>Hi, I'm Tony! <br/><a href="https://github.com/TonyRamos1982"></a>, <a href="https://www.linkedin.com/in/tony-ramos1982">Cybersecurity Student</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
