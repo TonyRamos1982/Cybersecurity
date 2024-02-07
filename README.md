@@ -14,10 +14,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/tony-ramos1982/
+  -[linkedin]: https://linkedin.com/in/tony-ramos1982/
 
 
-<h2> Current Progress</h2>
+<h2> Current Training In Progress</h2>
 
   - [🔭 I’m currently working on ...]
   - [CompTIA Security+ Certification](https://www.comptia.org/certifications/security)
