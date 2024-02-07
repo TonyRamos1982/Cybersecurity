@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [Active Directory Home Lab](https://github.com/TonyRamos1982/Algorithms-Practice)
 
 
 <h2> Certifications</h2>
