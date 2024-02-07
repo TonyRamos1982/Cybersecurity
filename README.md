@@ -13,11 +13,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
 [linkedin]: https://linkedin.com/in/tony-ramos1982/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TonyRamos1982/TonyRamos1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
