@@ -10,7 +10,7 @@
 
 - [Google It Support Certificate]
 - [Google CyberSecurity Certificate]
-- [CompTIA Security + ---In Progress---]
+- [CompTIA Security +]
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -20,7 +20,7 @@
 <h2> Current Training In Progress</h2>
 
   - [🔭 I’m currently working on ...]
-  - [CompTIA Security+ Certification](https://www.comptia.org/certifications/security)
+  - [Microsoft Azure Certification]
   - [🌱 I’m currently learning ...]
   - [SOC CORE Skills with John Strand](https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/)
 
