@@ -4,7 +4,7 @@
 
   - 
   - [Active Directory Home Lab with Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI&t=876s)
-  - [Vulnerabiliyt Management Project](https://github.com/TonyRamos1982/Vulnerability-Management-Project/)
+  - [Vulnerability Management Project](https://github.com/TonyRamos1982/Vulnerability-Management-Project/)
     
 <h2> Certifications</h2>
 
