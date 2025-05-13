@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  ## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects
 
-    - [Active Directory Home Lab with Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI&t=876s)
-    - [Vulnerability Management Project](https://github.com/TonyRamos1982/Vulnerability-Management-Project/)
+- [Active Directory Home Lab with Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI&t=876s)
+- [Vulnerability Management Project](https://github.com/TonyRamos1982/Vulnerability-Management-Project/)
     
-   ## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations
 
-  - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
     
 <h2> Certifications</h2>
