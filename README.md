@@ -10,6 +10,7 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TonyRamos1982/threat-hunting-scenario-tor)
+- [Threat Hunting Scenario (Dead In The Water)](https://github.com/TonyRamos1982/)
 
     
 <h2> Certifications</h2>
