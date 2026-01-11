@@ -26,7 +26,7 @@
 <h2> Current Training In Progress</h2>
 
   - [🔭 I’m currently working on ...]
-  - [Microsoft Azure Certification]
+  -  [CISSP Certification](https://www.isc2.org)
   - [🌱 I’m currently learning ...]
   - [Cyber Range vis Skool with Josh Madakor](https://joshmadakor.tech/cyber/)
   - [SOC CORE Skills with John Strand](https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/)
