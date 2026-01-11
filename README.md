@@ -36,9 +36,10 @@
 Here are some ideas to get you started:
 
 - [🔭 I’m currently working on ...]
-- [CompTIA Security+ Certification](https://www.comptia.org/certifications/security)
+- [CISSP Certification] (https://www.isc2.org)
 - [🌱 I’m currently learning ...]
-- [SOC CORE Skills with John Strand](https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/)
+- [Cyber Range via Skool](https://joshmadakor.tech/cyber/)
+- [SOC Core Analyst Skills with John Strand] (https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
