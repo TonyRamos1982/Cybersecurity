@@ -26,7 +26,7 @@
     PS C:\> .\WN11-CC-000090.ps1
 #>
 
-# Ensure script is running as Administrator
+# Check for Administrator privileges
 If (-not ([Security.Principal.WindowsPrincipal] `
     [Security.Principal.WindowsIdentity]::GetCurrent()
     ).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
@@ -38,12 +38,12 @@ $RegPath  = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Group Policy"
 $ValueName = "DisableBackgroundPolicy"
 $ValueData = 0
 
-# Create registry path if it does not exist
-if (-not (Test-Path $RegPath)) {
+# Create registry key if it doesn't exist
+If (-not (Test-Path $RegPath)) {
     New-Item -Path $RegPath -Force | Out-Null
 }
 
-# Set required value
+# Set the required value
 New-ItemProperty `
     -Path $RegPath `
     -Name $ValueName `
@@ -52,3 +52,9 @@ New-ItemProperty `
     -Force | Out-Null
 
 Write-Output "WN11-CC-000090 remediation applied successfully."
+
+# Check to verify DisableBackgroundPolicy : 0
+
+Get-ItemProperty `
+  -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Group Policy" `
+  -Name DisableBackgroundPolicy
