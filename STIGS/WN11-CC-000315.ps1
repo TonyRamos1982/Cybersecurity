@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
     WN11-CC-000315 Remediation
-    The Windows Installer feature 'Always install with elevated privileges' must be disabled.
+    Disable "Always install with elevated privileges"
 
 .NOTES
     Author          : Tony Ramos
@@ -25,9 +25,6 @@
     Example syntax:
     PS C:\> .\WN11-CC-0002315.ps1
 #>
-
-# WN11-CC-000315 Remediation
-# Disable "Always install with elevated privileges"
 
 # Ensure script is running as Administrator
 If (-not ([Security.Principal.WindowsPrincipal] `
