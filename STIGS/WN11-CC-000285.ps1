@@ -52,3 +52,10 @@ New-ItemProperty `
     -Force | Out-Null
 
 Write-Output "WN11-CC-000285 remediation applied successfully."
+
+# Check for the following outpout fEncryptRPCTraffic : 1
+
+Get-ItemProperty `
+  -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" `
+  -Name fEncryptRPCTraffic
+
