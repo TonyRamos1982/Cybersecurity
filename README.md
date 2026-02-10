@@ -18,6 +18,7 @@
 - [Google It Support Certificate]
 - [Google CyberSecurity Certificate]
 - [CompTIA Security +]
+- [Azure AZ900]
 
 <h2> 🤳 Connect with me:</h2>
 
