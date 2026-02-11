@@ -51,3 +51,10 @@ New-ItemProperty `
     -Force | Out-Null
 
 Write-Output "WN11-CC-000255 remediation applied successfully."
+
+# Check to confirm remediation value should be 0
+
+Get-ItemProperty `
+  -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\WinRM\Client" `
+  -Name AllowDigest
+
